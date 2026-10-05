@@ -1,0 +1,4 @@
+.history/
+.DS_store
+**__pycache__/
+**envtest.egg-info/
